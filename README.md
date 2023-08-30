@@ -1,4 +1,4 @@
-# Instagram_clone
+# MERN Marketplace 2.0
  
 
 An online marketplace application with seller accounts, product search and suggestions, shopping cart, order management, payment processing with Stripe, and live auction with Socket.io - developed using React, Node, Express and MongoDB. 
@@ -38,7 +38,7 @@ Learn more at [mernbook.com](http://www.mernbook.com/)
  
 *Learn MERN stack development by building modern web apps using MongoDB, Express, React, and Node.js*
 
-<a href="https://www.packtpub.com/web-development/full-stack-react-projects-second-edition"><img src="https://mernbook.s3.amazonaws.com/git+/Book_2Ed.jpg" align="center" width="400" alt="Full-Stack React Projects"></a>
+ 
 
 React combined with industry-tested, server-side technologies, such as Node, Express, and MongoDB, enables you to develop and deploy robust real-world full-stack web apps. This updated second edition focuses on the latest versions and conventions of the technologies in this stack, along with their new features such as Hooks in React and async/await in JavaScript. The book also explores advanced topics such as implementing real-time bidding, a web-based classroom app, and data visualization in an expense tracking app.
 
